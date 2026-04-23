@@ -23,9 +23,11 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 
 ## Interesting AI stuff
 
-- [**AI-Skills-Collections**](https://github.com/CHENyiru3/AI-Skills-Collections) — Curated **agent skills** (`SKILL.md` and scripts bundles) for **Claude Code** and **Codex**: documents, Python library work, AI/ML, computational biology, writing, and site maintenance — with install notes and a `docs/` hub. Active. *Last update: 2026-04-19.*
+- [**AI-Skills-Collections**](https://github.com/CHENyiru3/AI-Skills-Collections) — Curated **agent skills** (`SKILL.md` and scripts bundles) for **Claude Code** and **Codex**: documents, Python library work, AI/ML, computational biology, writing, and site maintenance — with install notes and a `docs/` hub. Active. *Last update: 2026-04-23.*
+- [**clawd-on-desk-streaming**](https://github.com/CHENyiru3/clawd-on-desk-streaming) — A coding-agent–aware **desktop pet** (e.g. Claude Code): reacts in real time (thinking, typing, idle, and similar); exploring productivity extras (translation, notifications, to-do, …). Active. *Last update: 2026-04-23.*
+- [**CodeBTI**](https://github.com/CHENyiru3/codebti) — A Coding Styling and Ai engineering skill; generate project SPEC by MBTI-like communication. Active. *Last update: 2026-04-23.*
 - [**Gen-micom**](https://github.com/CHENyiru3/Gen-micom) — **Generative AI Famicom**: A mini project for fun, and understand how agenet actually works for context maintaining. Engine–Cartridge–Campaign framework for low-context, long-running **markdown-driven RPG** play with any model. Achived. *Last update: 2026-01-31.*
-- [**clawd-on-desk-streaming**](https://github.com/CHENyiru3/clawd-on-desk-streaming) — A coding-agent–aware **desktop pet** (e.g. Claude Code): reacts in real time (thinking, typing, idle, and similar); exploring productivity extras (translation, notifications, to-do, …). Active. *Last update: 2026-04-18.*
+
 
 ## Others
 
