@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-04-28 12:30
+> **Last maintained**: 2026-04-28 13:10
 
 > A personal index of my public GitHub work — **computational biology**, **interesting AI experiments**, and **everything else** (tools, notes, and campus resources).
 
@@ -27,6 +27,7 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 
 - [**AI-Skills-Collections**](https://github.com/CHENyiru3/AI-Skills-Collections) — Curated **agent skills** (`SKILL.md` and scripts bundles) for **Claude Code** and **Codex**: documents, Python library work, AI/ML, computational biology, writing, and site maintenance — with install notes and a `docs/` hub. Active. *Last update: 2026-04-27.*
 - [**clawd-on-desk-streaming**](https://github.com/CHENyiru3/clawd-on-desk-streaming) — A coding-agent–aware **desktop pet** (v1.0.0) that reacts in real time to Claude Code, Codex, Copilot, Gemini, Cursor, Kiro, opencode, and Hermes sessions. Now includes remote server monitoring and productivity extras. Active. *Last update: 2026-04-28.*
+- [**ZotPilot_Mac**](https://github.com/CHENyiru3/ZotPilot_Mac) — MCP server for **Zotero**: semantic search across your paper library with 32 AI tools, citation graph queries, PDF indexing, and AI-assisted organization. Active. *Last update: 2026-04-28.*
 - [**CodeBTI**](https://github.com/CHENyiru3/codebti) — A Coding Styling and Ai engineering skill; generate project SPEC by MBTI-like communication. Active. *Last update: 2026-04-25.*
 - [**Gen-micom**](https://github.com/CHENyiru3/Gen-micom) — **Generative AI Famicom**: A mini project for fun, and understand how agenet actually works for context maintaining. Engine–Cartridge–Campaign framework for low-context, long-running **markdown-driven RPG** play with any model. Archived. *Last update: 2026-01-31.*
 
