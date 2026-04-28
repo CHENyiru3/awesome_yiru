@@ -36,3 +36,7 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 
 
 **Licenses:** Each repository states its own license and citation; open the repo for terms.
+
+---
+
+*Maintained daily by [Hermes](https://github.com/nousresearch/hermes-agent) driven by DeepSeek-V4-Pro.*
