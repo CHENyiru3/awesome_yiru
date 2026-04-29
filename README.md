@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-04-28 13:10
+> **Last maintained**: 2026-04-29 12:38
 
 > A personal index of my public GitHub work — **computational biology**, **interesting AI experiments**, and **everything else** (tools, notes, and campus resources).
 
@@ -19,27 +19,27 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 
 ## Computational biology
 
-- [**MC-spatial**](https://github.com/CHENyiru3/MC-spatial) — **Spatial perturbation** analysis for MuData `.h5mu`: perturbed-cell specificity vs spatial-neighbor niche impact. The core idea is that we need a statistical method to decouple spatial intrinsic effect and extrinsic spillover effect under CRISPR-bsae mosaic perturbation. Archived for now. *Last update: 2026-03-25.*
-- [**PyRAMA**](https://github.com/CHENyiru3/PyRAMA) — Python **Ramachandran plots from PDB** (fork of [gerdos/PyRAMA](https://github.com/gerdos/PyRAMA) and contribute to the main repo); useful for backbone / structure QC and visualization of protein. Archived for now. *Last update: 2025-07-19.*
-- [**FDTranSearcher**](https://github.com/CHENyiru3/FDTranSearcher) — A bioinformatics tool for detecting **functional DNA transposons** in plants genomic sequences. A small project during coursework but some ideas might be interesting for optimization on large ATCG seqeuneces. Archived. *Last update: 2025-02-02.*
+- [**MC-spatial**](https://github.com/CHENyiru3/MC-spatial) — **Spatial perturbation** pipeline for MuData `.h5mu` inputs: quantifies perturbed-cell specificity and spatial-neighbor niche impact, with CSV summaries and plots for CRISPR-based mosaic perturbation analysis. Archived for now. *Last update: 2026-03-25.*
+- [**PyRAMA**](https://github.com/CHENyiru3/PyRAMA) — Python3 **Ramachandran plots from PDB** with command-line optimization and multiple-chain support; useful for protein backbone QC and visualization. Archived for now. *Last update: 2025-07-19.*
+- [**FDTranSearcher**](https://github.com/CHENyiru3/FDTranSearcher) — Bioinformatics tool for detecting **functional DNA transposons** in plant genomic sequences, with reference/de novo search modules and cross-platform notes from the ZJE BMI3 ICA project. Archived. *Last update: 2025-02-02.*
 
 ## Interesting AI stuff
 
-- [**AI-Skills-Collections**](https://github.com/CHENyiru3/AI-Skills-Collections) — Curated **agent skills** (`SKILL.md` and scripts bundles) for **Claude Code** and **Codex**: documents, Python library work, AI/ML, computational biology, writing, and site maintenance — with install notes and a `docs/` hub. Active. *Last update: 2026-04-27.*
-- [**clawd-on-desk-streaming**](https://github.com/CHENyiru3/clawd-on-desk-streaming) — A coding-agent–aware **desktop pet** (v1.0.0) that reacts in real time to Claude Code, Codex, Copilot, Gemini, Cursor, Kiro, opencode, and Hermes sessions. Now includes remote server monitoring and productivity extras. Active. *Last update: 2026-04-28.*
-- [**ZotPilot_Mac**](https://github.com/CHENyiru3/ZotPilot_Mac) — MCP server for **Zotero**: semantic search across your paper library with 32 AI tools, citation graph queries, PDF indexing, and AI-assisted organization. Active. *Last update: 2026-04-28.*
-- [**CodeBTI**](https://github.com/CHENyiru3/codebti) — A Coding Styling and Ai engineering skill; generate project SPEC by MBTI-like communication. Active. *Last update: 2026-04-25.*
-- [**Gen-micom**](https://github.com/CHENyiru3/Gen-micom) — **Generative AI Famicom**: A mini project for fun, and understand how agenet actually works for context maintaining. Engine–Cartridge–Campaign framework for low-context, long-running **markdown-driven RPG** play with any model. Archived. *Last update: 2026-01-31.*
+- [**AI-Skills-Collections**](https://github.com/CHENyiru3/AI-Skills-Collections) — Personal library of **112 production-grade agent skills** for Claude Code, Codex, and AI coding agents across computational biology, AI/ML, Python engineering, academic writing, documents, GitHub workflows, and site maintenance. Active. *Last update: 2026-04-27.*
+- [**clawd-on-desk-streaming**](https://github.com/CHENyiru3/clawd-on-desk-streaming) — Coding-agent–aware **desktop pet** that reacts in real time to Claude Code, Codex, Copilot, Gemini, Cursor, Kiro, opencode, and Hermes sessions, with remote server monitoring and productivity extras. Active. *Last update: 2026-04-28.*
+- [**ZotPilot_Mac**](https://github.com/CHENyiru3/ZotPilot_Mac) — AI-powered **Zotero** research workflow assistant: MCP server, packaged skills, Connector-based paper/PDF intake, semantic search and citation graph tools, and layered RAG with Gemini, DashScope, or local embeddings. Active. *Last update: 2026-04-29.*
+- [**CodeBTI**](https://github.com/CHENyiru3/codebti) — MBTI-inspired **code/project style** interview system for humans and AI agents; generates `CodeStyle.md`, `ProjectStyle.md`, `SKILL.md`, or `SPEC.md`, with project-first and multi-language workflows. Active. *Last update: 2026-04-28.*
+- [**Gen-micom**](https://github.com/CHENyiru3/Gen-micom) — **Generative AI Famicom**: prompt-engineered Engine–Cartridge–Campaign framework for low-context, long-running markdown/JSON RPG execution with hot-swappable protocols, content, and runtime state. Archived. *Last update: 2026-01-31.*
 
 
 ## Others
 
-- [**My_Notes_Four_ZJE**](https://github.com/CHENyiru3/My_Notes_Four_ZJE) — Open source notes and resource sharing platform for ZJU-UoE institution. Supported by many contributors! Active. *Last update: 2026-04-08.*
-- [**ZJE_format_csl**](https://github.com/CHENyiru3/ZJE_format_csl) — **CSL** citation styles for ZJE writing (Zotero and other CSL tools). Archived. *Last update: 2023-11-30.*
+- [**My_Notes_Four_ZJE**](https://github.com/CHENyiru3/My_Notes_Four_ZJE) — Open-source **ZJE/ZJU-UoE notes and resource-sharing** site with course pages, downloadable materials, and contributor guidelines. Active. *Last update: 2026-04-08.*
+- [**ZJE_format_csl**](https://github.com/CHENyiru3/ZJE_format_csl) — **CSL** citation style adapted from Cite Them Right 12th for ZJE essays, installable in Zotero and other CSL-compatible reference managers. Archived. *Last update: 2023-11-30.*
 
 
 **Licenses:** Each repository states its own license and citation; open the repo for terms.
 
 ---
 
-*Maintained daily by [Hermes](https://github.com/nousresearch/hermes-agent) driven by DeepSeek-V4-Pro.*
+*Maintained daily by [Hermes](https://github.com/nousresearch/hermes-agent) driven by openai-codex/gpt-5.5.*
