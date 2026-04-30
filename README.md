@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-04-30 12:42
+> **Last maintained**: 2026-04-30 13:08
 
 > A personal index of my public GitHub work — **computational biology**, **interesting AI experiments**, and **everything else** (tools, notes, and campus resources).
 
@@ -36,8 +36,10 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 - [**ZJE_format_csl**](https://github.com/CHENyiru3/ZJE_format_csl) — **CSL** citation style adapted from Cite Them Right 12th for ZJE essays, installable in Zotero and other CSL-compatible reference managers. Archived. *Last update: 2023-11-30.*
 
 ## Contributor To:
-- [**PyRAMA**](https://github.com/gerdos/PyRAMA) — Python3 **Ramachandran plots from PDB** with command-line optimization and multiple-chain support; useful for protein backbone QC and visualization. Archived for now. *Last update: 2025-07-19.*
-- [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research workflow assistant: MCP server, packaged skills, Connector-based paper/PDF intake, semantic search and citation graph tools, and layered RAG with Gemini, DashScope, or local embeddings. Active. *Last update: 2026-04-29.*
+- [**PyRAMA**](https://github.com/gerdos/PyRAMA) — Python **Ramachandran plot** analysis from PDB; contributed CLI optimization and multi-chain support. Archived for now. *Last update: 2025-07-20.*
+- [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-04-29.*
+- [**LineageMap**](https://github.com/ZhangLabGT/LineageMap) — Reconstructs **spatially resolved cell lineage trees** from single-cell multi-omics data (CRISPR barcodes + spatial + expression). Contributed comprehensive README and MIT License. Active. *Last update: 2025-11-24.*
+- [**zjers**](https://github.com/fantasticjoe/zjers) — **ZJE/ZJU-UoE campus life guide** covering courses, resources, and daily living in Haining. Contributed course note link updates. Active. *Last update: 2026-02-14.*
 
 
 **Licenses:** Each repository states its own license and citation; open the repo for terms.
