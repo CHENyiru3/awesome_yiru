@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-05-05
+> **Last maintained**: 2026-05-06
 
 > A personal index of my public GitHub work — **computational biology**, **interesting AI experiments**, and **everything else** (tools, notes, and campus resources).
 
@@ -24,10 +24,10 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 
 ## Interesting AI stuff
 
-- [**AI-Skills-Collections**](https://github.com/CHENyiru3/AI-Skills-Collections) — Personal library of **112 production-grade agent skills** for Claude Code, Codex, and AI coding agents across computational biology, AI/ML, Python engineering, academic writing, documents, GitHub workflows, and site maintenance. Active. *Last update: 2026-05-04.*
-- [**clawd-on-desk-streaming**](https://github.com/CHENyiru3/clawd-on-desk-streaming) — Coding-agent–aware **desktop pet** (v1.0.0) that reacts in real time to Claude Code, Codex, Copilot, Gemini, Cursor, Kiro, opencode, and Hermes, with built-in Hermes chat panel, translation bubble, remote server monitoring, and custom themes including Demon Hunter Clawd. Active. *Last update: 2026-05-01.*
+- [**AI-Skills-Collections**](https://github.com/CHENyiru3/AI-Skills-Collections) — Personal library of **112 production-grade agent skills** for Claude Code, Codex, and AI coding agents across computational biology, AI/ML, Python engineering, academic writing, documents, GitHub workflows, and site maintenance. Active. *Last update: 2026-04-30.*
+- [**clawd-on-desk-streaming**](https://github.com/CHENyiru3/clawd-on-desk-streaming) — Coding-agent–aware **desktop pet** (v1.0.0) that reacts in real time to Claude Code, Codex, Copilot, Gemini, Cursor, Kiro, opencode, and Hermes, with built-in Hermes chat panel, translation bubble, remote server monitoring, and custom themes including Demon Hunter Clawd. Active. *Last update: 2026-04-28.*
 - [**CodeBTI**](https://github.com/CHENyiru3/codebti) — MBTI-inspired **code/project style** interview system for humans and AI agents; generates `CodeStyle.md`, `ProjectStyle.md`, `SKILL.md`, or `SPEC.md`, with project-first and multi-language workflows. Active. *Last update: 2026-04-30.*
-- [**Gen-micom**](https://github.com/CHENyiru3/Gen-micom) — **Generative AI Famicom**: prompt-engineered Engine–Cartridge–Campaign framework for low-context, long-running markdown/JSON RPG execution with hot-swappable protocols, content, and runtime state. Inactive. *Last update: 2026-01-31.*
+- [**Gen-micom**](https://github.com/CHENyiru3/Gen-micom) — **Generative AI Famicom**: evolving from Engine–Cartridge–Campaign RPG framework into a local agent framework for persistent file-backed interactive worlds, with v2 CLI, protocol core, content packs, and runtime state management. Inactive. *Last update: 2026-01-31.*
 
 
 ## Others
