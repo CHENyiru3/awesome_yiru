@@ -24,6 +24,7 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 
 ## Interesting AI stuff
 
+- [**GENmicon-TUI**](https://github.com/CHENyiru3/GENmicon-TUI) — **TUI agent** for DeepSeek V4: terminal coding assistant with reasoning streaming, workspace editing with approval gates, and auto mode for model/thinking level selection per turn. Active. *Last update: 2026-05-11.*
 - [**AI-Skills-Collections**](https://github.com/CHENyiru3/AI-Skills-Collections) — Personal library of **112 production-grade agent skills** for Claude Code, Codex, and AI coding agents across computational biology, AI/ML, Python engineering, academic writing, documents, GitHub workflows, and site maintenance. Active. *Last update: 2026-05-07.*
 - [**clawd-on-desk-streaming**](https://github.com/CHENyiru3/clawd-on-desk-streaming) — Coding-agent–aware **desktop pet** (v1.0.0) that reacts in real time to Claude Code, Codex, Copilot, Gemini, Cursor, Kiro, opencode, and Hermes, with built-in Hermes chat panel, translation bubble, remote server monitoring, and custom themes including Demon Hunter Clawd. Active. *Last update: 2026-05-01.*
 - [**CodeBTI**](https://github.com/CHENyiru3/codebti) — MBTI-inspired **code/project style** interview system for humans and AI agents; generates `CodeStyle.md`, `ProjectStyle.md`, `SKILL.md`, or `SPEC.md`, with project-first and multi-language workflows. Active. *Last update: 2026-04-30.*
