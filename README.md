@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-05-12
+> **Last maintained**: 2026-05-14
 
 > A personal index of my public GitHub work — **computational biology**, **interesting AI experiments**, and **everything else** (tools, notes, and campus resources).
 
@@ -20,6 +20,7 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 ## Computational biology
 
 - [**MC-spatial**](https://github.com/CHENyiru3/MC-spatial) — **Spatial perturbation** pipeline for MuData `.h5mu` inputs: quantifies perturbed-cell specificity and spatial-neighbor niche impact, with CSV summaries and plots for CRISPR-based mosaic perturbation analysis. Inactive. *Last update: 2026-03-25.*
+- [**novae**](https://github.com/CHENyiru3/novae) — **Graph-based foundation model** for spatial transcriptomics: zero-shot spatial domain inference, batch-effect correction, intrinsic and niche node embeddings with graph pooling. Active. *Last update: 2026-05-13.*
 - [**FDTranSearcher**](https://github.com/CHENyiru3/FDTranSearcher) — Bioinformatics tool for detecting **functional DNA transposons** in plant genomic sequences, with reference/de novo search modules and cross-platform notes from the ZJE BMI3 ICA project. Archived. *Last update: 2025-02-02.*
 
 ## Interesting AI stuff
