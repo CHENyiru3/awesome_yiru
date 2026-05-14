@@ -40,7 +40,7 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 
 ## Contributor To:
 - [**PyRAMA**](https://github.com/gerdos/PyRAMA) — Python **Ramachandran plot** analysis from PDB; contributed CLI optimization and multi-chain support. Archived for now. *Last update: 2026-04-14.*
-| [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-05-10.*
+| [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-05-14.*
 - [**zjers**](https://github.com/fantasticjoe/zjers) — **ZJE/ZJU-UoE campus life guide** covering courses, resources, and daily living in Haining. Contributed course note link updates. Active. *Last update: 2026-02-14.*
 
 
