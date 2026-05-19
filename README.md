@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-05-18
+> **Last maintained**: 2026-05-19
 
 > A personal index of my public GitHub work — **computational biology**, **interesting AI experiments**, and **everything else** (tools, notes, and campus resources).
 
