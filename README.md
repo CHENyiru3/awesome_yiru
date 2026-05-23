@@ -41,9 +41,6 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 ## Contributor To:
 - [**PyRAMA**](https://github.com/gerdos/PyRAMA) — Python **Ramachandran plot** analysis from PDB; contributed CLI optimization and multi-chain support. *Last update: 2026-04-14.*
 - [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-05-22.*
-- [**zjers**](https://github.com/fantasticjoe/zjers) — **ZJE/ZJU-UoE campus life guide** covering courses, resources, and daily living in Haining. Contributed course note link updates. Active. *Last update: 2026-02-14.*
-- [**LineageMap**](https://github.com/ZhangLabGT/LineageMap) — Reconstructing spatially resolved cell lineage trees from single-cell multi-omics data. Contributed comprehensive README documentation and MIT License. Active. *Last update: 2026-04-15.*
-- [**FEAST**](https://github.com/maiziezhoulab/FEAST) — Parameter-cloud simulation and 3D interpolation of spatial transcriptomics from slices. Contributed simulation API refactor and simulation modes with stack generation. Active. *Last update: 2026-05-19.*
 
 
 **Licenses:** Each repository states its own license and citation; open the repo for terms.
