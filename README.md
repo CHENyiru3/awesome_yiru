@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-05-22
+> **Last maintained**: 2026-05-23
 
 > A personal index of my public GitHub work — **computational biology**, **interesting AI experiments**, and **everything else** (tools, notes, and campus resources).
 
@@ -34,13 +34,13 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 
 ## Others
 
-- [**My_Notes_Four_ZJE**](https://github.com/CHENyiru3/My_Notes_Four_ZJE) — Open-source **ZJE/ZJU-UoE notes and resource-sharing** site with course pages, downloadable materials, and contributor guidelines. Active. *Last update: 2026-05-21.*
+- [**My_Notes_Four_ZJE**](https://github.com/CHENyiru3/My_Notes_Four_ZJE) — Open-source **ZJE/ZJU-UoE notes and resource-sharing** site with course pages, downloadable materials, and contributor guidelines. Active. *Last update: 2026-05-22.*
 - [**TaxHacker_cn**](https://github.com/CHENyiru3/TaxHacker_cn) — Self-hosted **AI accounting app**: LLM analyzer for receipts, invoices, and transactions with custom prompts and categories. Active. *Last update: 2026-02-11.*
 - [**ZJE_format_csl**](https://github.com/CHENyiru3/ZJE_format_csl) — **CSL** citation style adapted from Cite Them Right 12th for ZJE essays, installable in Zotero and other CSL-compatible reference managers. Archived. *Last update: 2023-11-30.*
 
 ## Contributor To:
 - [**PyRAMA**](https://github.com/gerdos/PyRAMA) — Python **Ramachandran plot** analysis from PDB; contributed CLI optimization and multi-chain support. *Last update: 2026-04-14.*
-- [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-05-19.*
+- [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-05-22.*
 - [**zjers**](https://github.com/fantasticjoe/zjers) — **ZJE/ZJU-UoE campus life guide** covering courses, resources, and daily living in Haining. Contributed course note link updates. Active. *Last update: 2026-02-14.*
 - [**LineageMap**](https://github.com/ZhangLabGT/LineageMap) — Reconstructing spatially resolved cell lineage trees from single-cell multi-omics data. Contributed comprehensive README documentation and MIT License. Active. *Last update: 2026-04-15.*
 - [**FEAST**](https://github.com/maiziezhoulab/FEAST) — Parameter-cloud simulation and 3D interpolation of spatial transcriptomics from slices. Contributed simulation API refactor and simulation modes with stack generation. Active. *Last update: 2026-05-19.*
