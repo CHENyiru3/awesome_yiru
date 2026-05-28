@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-05-25
+> **Last maintained**: 2026-05-28
 
 > A personal index of my public GitHub work — **computational biology**, **interesting AI experiments**, and **everything else** (tools, notes, and campus resources).
 
@@ -20,12 +20,12 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 ## Computational biology
 
 - [**MC-spatial**](https://github.com/CHENyiru3/MC-spatial) — **Spatial perturbation** pipeline for MuData `.h5mu` inputs: quantifies perturbed-cell specificity and spatial-neighbor niche impact, with configurable preprocessing, QC weighting, and gamma-fit DEG p-value options, producing CSV summaries and plots for CRISPR-based mosaic perturbation analysis. Inactive. *Last update: 2026-03-25.*
-- [**novae**](https://github.com/CHENyiru3/novae) — **Graph-based foundation model** for spatial transcriptomics: zero-shot spatial domain inference, batch-effect correction, intrinsic and niche node embeddings with graph pooling. Archived. *Last update: 2026-05-13.*
+- [**novae**](https://github.com/CHENyiru3/novae) — **Graph-based foundation model** for spatial transcriptomics: zero-shot spatial domain inference, batch-effect correction, intrinsic and niche node embeddings with graph pooling. Archived. *Last update: 2026-01-22.*
 - [**FDTranSearcher**](https://github.com/CHENyiru3/FDTranSearcher) — Bioinformatics tool for detecting **functional DNA transposons** in plant genomic sequences, with reference/de novo search modules and cross-platform notes from the ZJE BMI3 ICA project. Inactive. *Last update: 2025-02-02.*
 
 ## Interesting AI stuff
 
-- [**GENmicon-TUI**](https://github.com/CHENyiru3/GENmicon-TUI) — **TUI agent** for DeepSeek V4: terminal coding assistant with reasoning streaming, workspace editing with approval gates, and auto mode for model/thinking level selection per turn. Active. *Last update: 2026-05-16.*
+- [**GENmicon-TUI**](https://github.com/CHENyiru3/GENmicon-TUI) — **TUI agent** for DeepSeek V4: terminal coding assistant with reasoning streaming, workspace editing with approval gates, and auto mode for model/thinking level selection per turn. Active. *Last update: 2026-05-25.*
 - [**AI-Skills-Collections**](https://github.com/CHENyiru3/AI-Skills-Collections) — Personal library of **112 production-grade agent skills** for Claude Code, Codex, and AI coding agents across computational biology, AI/ML, Python engineering, academic writing, documents, GitHub workflows, and site maintenance. Active. *Last update: 2026-05-19.*
 - [**clawd-on-desk-streaming**](https://github.com/CHENyiru3/clawd-on-desk-streaming) — Coding-agent–aware **desktop pet** (v1.0.0) that reacts in real time to Claude Code, Codex, Copilot, Gemini, Cursor, Kiro, opencode, and Hermes, with built-in Hermes chat panel, translation bubble, remote server monitoring, and custom themes including Demon Hunter Clawd. Active. *Last update: 2026-05-01.*
 - [**CodeBTI**](https://github.com/CHENyiru3/codebti) — MBTI-inspired **code/project style** interview system for humans and AI agents; generates `CodeStyle.md`, `ProjectStyle.md`, `SKILL.md`, or `SPEC.md`, with project-first and multi-language workflows. Active. *Last update: 2026-04-30.*
@@ -42,8 +42,8 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 - [**FEAST**](https://github.com/maiziezhoulab/FEAST) — Spatial transcriptomics simulation framework for parameter-cloud simulation and 3D interpolation; contributed simulation modes and stack generation via two PRs. Active. *Last update: 2026-05-19.*
 - [**zjers**](https://github.com/fantasticjoe/zjers) — ZJE community resource hub; contributed course notes link updates. Active. *Last update: 2026-02-14.*
 - [**PyRAMA**](https://github.com/gerdos/PyRAMA) — Python **Ramachandran plot** analysis from PDB; contributed CLI optimization and multi-chain support. *Last update: 2025-07-20.*
-- [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-05-22.*
-- [**LineageMap**](https://github.com/ZhangLabGT/LineageMap) — Reconstructing spatially resolved cell lineage trees from single-cell multi-omics data; contributed comprehensive README documentation and MIT License via PR. Active. *Last update: 2026-04-15.*
+- [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-04-29.*
+- [**LineageMap**](https://github.com/ZhangLabGT/LineageMap) — Reconstructing spatially resolved cell lineage trees from single-cell multi-omics data; contributed comprehensive README documentation and MIT License via PR. Active. *Last update: 2025-11-24.*
 
 
 **Licenses:** Each repository states its own license and citation; open the repo for terms.
