@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-06-11
+> **Last maintained**: 2026-06-12
 
 > A personal index of my public GitHub work — **computational biology**, **interesting AI experiments**, and **everything else** (tools, notes, and campus resources).
 
@@ -42,7 +42,7 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 - [**FEAST**](https://github.com/maiziezhoulab/FEAST) — Spatial transcriptomics simulation framework for parameter-cloud simulation and 3D interpolation; contributed simulation modes and stack generation via two PRs. Active. *Last update: 2026-05-19.*
 - [**zjers**](https://github.com/fantasticjoe/zjers) — ZJE community resource hub; contributed course notes link updates. Active. *Last update: 2026-02-14.*
 - [**PyRAMA**](https://github.com/gerdos/PyRAMA) — Python **Ramachandran plot** analysis from PDB; contributed CLI optimization and multi-chain support. *Last update: 2025-07-20.*
-- [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-06-09.*
+- [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-06-12.*
 - [**LineageMap**](https://github.com/ZhangLabGT/LineageMap) — Reconstructing spatially resolved cell lineage trees from single-cell multi-omics data; contributed comprehensive README documentation and MIT License via PR. Active. *Last update: 2025-11-24.*
 
 
