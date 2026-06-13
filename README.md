@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-06-12
+> **Last maintained**: 2026-06-13
 
 > A personal index of my public GitHub work — **computational biology**, **interesting AI experiments**, and **everything else** (tools, notes, and campus resources).
 
@@ -20,7 +20,7 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 ## Computational biology
 
 - [**MC-spatial**](https://github.com/CHENyiru3/MC-spatial) — **Spatial perturbation** pipeline for MuData `.h5mu` inputs: quantifies perturbed-cell specificity and spatial-neighbor niche impact, with configurable preprocessing, QC weighting, and gamma-fit DEG p-value options, producing CSV summaries and plots for CRISPR-based mosaic perturbation analysis. Inactive. *Last update: 2026-03-25.*
-- [**novae**](https://github.com/CHENyiru3/novae) — **Graph-based foundation model** for spatial transcriptomics: zero-shot spatial domain inference, batch-effect correction, intrinsic and niche node embeddings with graph pooling. Archived. *Last update: 2026-05-13.*
+- [**novae**](https://github.com/CHENyiru3/novae) — **Graph-based foundation model** for spatial transcriptomics: zero-shot spatial domain inference, batch-effect correction, intrinsic and niche node embeddings with graph pooling. Archived. *Last update: 2026-01-22.*
 - [**FDTranSearcher**](https://github.com/CHENyiru3/FDTranSearcher) — Bioinformatics tool for detecting **functional DNA transposons** in plant genomic sequences, with reference/de novo search modules and cross-platform notes from the ZJE BMI3 ICA project. Inactive. *Last update: 2025-02-02.*
 
 ## Interesting AI stuff
@@ -39,7 +39,7 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 - [**ZJE_format_csl**](https://github.com/CHENyiru3/ZJE_format_csl) — **CSL** citation style adapted from Cite Them Right 12th for ZJE essays, installable in Zotero and other CSL-compatible reference managers. Archived. *Last update: 2023-11-30.*
 
 ## Contributor To:
-- [**FEAST**](https://github.com/maiziezhoulab/FEAST) — Spatial transcriptomics simulation framework for parameter-cloud simulation and 3D interpolation; contributed simulation modes and stack generation via two PRs. Active. *Last update: 2026-05-19.*
+- [**FEAST**](https://github.com/maiziezhoulab/FEAST) — Spatial transcriptomics simulation framework for parameter-cloud simulation and 3D interpolation; contributed simulation modes, stack generation, and production fix via three PRs. Active. *Last update: 2026-06-13.*
 - [**zjers**](https://github.com/fantasticjoe/zjers) — ZJE community resource hub; contributed course notes link updates. Active. *Last update: 2026-02-14.*
 - [**PyRAMA**](https://github.com/gerdos/PyRAMA) — Python **Ramachandran plot** analysis from PDB; contributed CLI optimization and multi-chain support. *Last update: 2025-07-20.*
 - [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-06-12.*
