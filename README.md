@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-07-01
+> **Last maintained**: 2026-07-02
 
 > A personal index of my public GitHub work — **computational biology**, **interesting AI experiments**, and **everything else** (tools, notes, and campus resources).
 
@@ -41,9 +41,9 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 ## Contributor To:
 - [**FEAST**](https://github.com/maiziezhoulab/FEAST) — Spatial transcriptomics simulation framework for parameter-cloud simulation and 3D interpolation; contributed simulation modes, stack generation, hybrid OT assignment fix, production refactors, and batch effect simulation via multiple PRs (v1.0.2 released). Active. *Last update: 2026-07-01.*
 - [**zjers**](https://github.com/fantasticjoe/zjers) — ZJE community resource hub; contributed course notes link updates. Active. *Last update: 2026-02-14.*
-- [**PyRAMA**](https://github.com/gerdos/PyRAMA) — Python **Ramachandran plot** analysis from PDB; contributed CLI optimization and multi-chain support. *Last update: 2026-04-14.*
-- [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-07-01.*
-- [**LineageMap**](https://github.com/ZhangLabGT/LineageMap) — Reconstructing spatially resolved cell lineage trees from single-cell multi-omics data; contributed comprehensive README documentation and MIT License via PR. Active. *Last update: 2026-06-25.*
+- [**PyRAMA**](https://github.com/gerdos/PyRAMA) — Python **Ramachandran plot** analysis from PDB; contributed CLI optimization and multi-chain support. *Last update: 2025-07-20.*
+- [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-06-28.*
+- [**LineageMap**](https://github.com/ZhangLabGT/LineageMap) — Reconstructing spatially resolved cell lineage trees from single-cell multi-omics data; contributed comprehensive README documentation and MIT License via PR. Inactive. *Last update: 2025-11-24.*
 
 
 **Licenses:** Each repository states its own license and citation; open the repo for terms.
