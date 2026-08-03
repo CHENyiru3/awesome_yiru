@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-08-01
+> **Last maintained**: 2026-08-03
 
 > A personal index of my public GitHub work — **computational biology**, **interesting AI experiments**, and **everything else** (tools, notes, and campus resources).
 
@@ -29,7 +29,7 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 - [**AI-Skills-Collections**](https://github.com/CHENyiru3/AI-Skills-Collections) — Personal library of **112 production-grade agent skills** for Claude Code, Codex, and AI coding agents across computational biology, AI/ML, Python engineering, academic writing, documents, GitHub workflows, and site maintenance. Active. *Last update: 2026-05-19.*
 - [**clawd-on-desk-streaming**](https://github.com/CHENyiru3/clawd-on-desk-streaming) — Coding-agent–aware **desktop pet** (v1.0.1) that reacts in real time to Claude Code, Codex, Copilot, Gemini, Cursor, Kiro, opencode, and Hermes, with built-in Hermes chat panel, translation bubble, remote server monitoring, demon hunter Clawd theme, and custom themes. Active. *Last update: 2026-05-01.*
 - [**CodeBTI**](https://github.com/CHENyiru3/codebti) — MBTI-inspired **code/project style** interview system for humans and AI agents; generates `CodeStyle.md`, `ProjectStyle.md`, `SKILL.md`, or `SPEC.md`, with project-first and multi-language workflows. Active. *Last update: 2026-04-30.*
-- [**Gen-micom**](https://github.com/CHENyiru3/Gen-micom) — **Generative AI Famicom**: evolving from Engine–Cartridge–Campaign RPG framework into a local agent framework for persistent file-backed interactive worlds, with v2 CLI, protocol core, content packs, and runtime state management. Active. *Last update: 2026-01-31.*
+- [**Gen-micom**](https://github.com/CHENyiru3/Gen-micom) — **Generative AI Famicom**: evolving from Engine–Cartridge–Campaign RPG framework into a local agent framework for persistent file-backed interactive worlds, with v2 CLI, protocol core, content packs, and runtime state management. Inactive. *Last update: 2026-01-31.*
 
 
 ## Others
@@ -42,7 +42,7 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 - [**FEAST**](https://github.com/maiziezhoulab/FEAST) — Spatial transcriptomics simulation framework for parameter-cloud simulation and 3D interpolation; contributed simulation modes, stack generation, hybrid OT assignment fix, production refactors, and batch effect simulation via multiple PRs (v1.0.2 released). Active. *Last update: 2026-07-01.*
 - [**zjers**](https://github.com/fantasticjoe/zjers) — ZJE community resource hub; contributed course notes link updates. Active. *Last update: 2026-02-14.*
 - [**PyRAMA**](https://github.com/gerdos/PyRAMA) — Python **Ramachandran plot** analysis from PDB; contributed CLI optimization and multi-chain support. Inactive. *Last update: 2025-07-20.*
-- [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-06-28.*
+- [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-06-16.*
 - [**LineageMap**](https://github.com/ZhangLabGT/LineageMap) — Reconstructing spatially resolved cell lineage trees from single-cell multi-omics data; contributed comprehensive README documentation and MIT License via PR. Inactive. *Last update: 2025-11-24.*
 
 
