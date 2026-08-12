@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-08-10
+> **Last maintained**: 2026-08-12
 
 > A personal index of my public GitHub work — **interesting AI experiments** and **everything else** (tools, notes, and campus resources). For academic projects, see [my website](https://chenyiru3.github.io/).
 
@@ -34,6 +34,7 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 - [**zjers**](https://github.com/fantasticjoe/zjers) — ZJE community resource hub; contributed course notes link updates. Active. *Last update: 2026-02-14.*
 - [**PyRAMA**](https://github.com/gerdos/PyRAMA) — Python **Ramachandran plot** analysis from PDB; contributed CLI optimization and multi-chain support. Inactive. *Last update: 2025-07-20.*
 - [**ZotPilot**](https://github.com/xunhe730/ZotPilot) — AI-powered **Zotero** research assistant: MCP server, Connector-based paper intake, semantic search, and RAG. Contributed DashScope native embeddings and vision support. Active. *Last update: 2026-06-16.*
+- [**TFormula**](https://github.com/mikewang817/TFormula) — CLI tool for rendering LaTeX formulas from coding agents in Kitty-compatible terminals; contributed the macOS and Ghostty bug fix. Active. *Last update: 2026-08-12.*
 
 
 
