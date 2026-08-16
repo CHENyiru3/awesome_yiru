@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-08-15
+> **Last maintained**: 2026-08-16
 
 > A personal index of my public GitHub work — **interesting AI experiments** and **everything else** (tools, notes, and campus resources). For academic projects, see [my website](https://chenyiru3.github.io/).
 
