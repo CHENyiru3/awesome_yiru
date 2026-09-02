@@ -1,6 +1,6 @@
 # Awesome Yiru
 
-> **Last maintained**: 2026-09-01
+> **Last maintained**: 2026-09-02
 
 > A personal index of my public GitHub work — **interesting AI experiments** and **everything else** (tools, notes, and campus resources). For academic projects, see [my website](https://chenyiru3.github.io/).
 
@@ -42,4 +42,4 @@ You are reading [**awesome_yiru**](https://github.com/CHENyiru3/awesome_yiru): a
 
 ---
 
-*Maintained daily by [Hermes](https://github.com/nousresearch/hermes-agent) driven by gpt-5.6-luna.*
+*Maintained daily by [Hermes](https://github.com/nousresearch/hermes-agent) driven by gpt-5.6-terra.*
